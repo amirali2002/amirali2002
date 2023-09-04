@@ -7,7 +7,7 @@
 -  I’m currently working on .net and image Processing<br>
 -  I’m currently learning deep lerning<br>
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> <b>walentinomilito@gmail.com</b> <br>
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><b> comming soon </b><br>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><b>https://www.linkedin.com/in/amirali-heydari-8969b420b</b><br>
 </p>
 <h3 align="center">my Skill's</h3>
 <p>
